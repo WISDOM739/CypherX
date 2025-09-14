@@ -1,7 +1,7 @@
 {
-  "name": "CypherX",
+  "name": "wisdomX",
   "version": "1.8.0",
-  "description": "The best Whatsapp bot",
+  "description": "one in a million",
   "main": "index.js",
   "engines": {
       "node": ">= 20.x",
@@ -14,7 +14,7 @@
       "restart": "npm stop && npm start",
       "test": "echo \"Error: no test specified\" && exit 1"
    },
-  "author": "Tylor",
+  "author": "MADFLEX",
   "dependencies": {
         "adm-zip": "^0.5.16",
         "better-sqlite3": "^12.2.0",
